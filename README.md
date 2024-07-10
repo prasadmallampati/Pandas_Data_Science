@@ -6,25 +6,26 @@ Creating DataFrames:
 
 Create and manipulate DataFrames with ease.
 Flexible indexing and column assignment.
+
 File Reading Methods:
 
 Read data from CSV, Excel, and Parquet files.
 Supports multiple file formats for seamless data integration.
-Accessing Data:
 
+Accessing Data:
 Access data using loc, iloc, at, and iat.
 Efficient and versatile indexing methods.
+
 Displaying Data:
-
 Quickly overview data with head and tail.
+
 Sorting:
-
 Easily sort data in ascending or descending order.
+
 Looping and Iteration:
-
 Iterate over DataFrames using loops and iterrows.
-Filtering Data:
 
+Filtering Data:
 Filter data with single or multiple conditions.
 Powerful and flexible filtering options.
 String Operations and Regex:
